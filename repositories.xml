@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>pairux</name>
+    <description>Gentoo overlay for PairUX - collaborative screen sharing</description>
+    <homepage>https://pairux.com</homepage>
+    <owner>
+      <email>hello@pairux.com</email>
+      <name>PairUX Team</name>
+    </owner>
+    <source type="git">https://github.com/profullstack/gentoo-pairux.git</source>
+  </repo>
+</repositories>
