@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>hello@pairux.com</email>
+		<name>PairUX Team</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="github">profullstack/pairux.com</remote-id>
+		<bugs-to>https://github.com/profullstack/pairux.com/issues</bugs-to>
+	</upstream>
+	<longdescription lang="en">
+		PairUX is a collaborative screen sharing application with simultaneous
+		remote mouse and keyboard control. Like Screenhero, but open source.
+		Perfect for pair programming, remote support, and collaboration.
+	</longdescription>
+</pkgmetadata>
