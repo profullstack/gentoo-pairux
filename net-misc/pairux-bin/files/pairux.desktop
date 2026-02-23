@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=PairUX
 Comment=Collaborative screen sharing with remote control
-Exec=/opt/pairux/pairux-bin-0.5.30.AppImage --no-sandbox %U
+Exec=/opt/pairux/pairux-bin-0.5.33.AppImage --no-sandbox %U
 Icon=pairux
 Type=Application
 Categories=Network;RemoteAccess;
