@@ -1,3 +1,3 @@
 #!/bin/bash
 export ELECTRON_DISABLE_SANDBOX=1
-exec /opt/pairux/pairux-bin-0.7.35.AppImage "$@"
+exec /opt/pairux/pairux-bin-0.7.36.AppImage "$@"
