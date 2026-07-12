@@ -34,7 +34,7 @@ sudo emerge net-misc/pairux-bin
 
 - **Category:** net-misc
 - **Package:** pairux-bin
-- **Version:** 0.9.21
+- **Version:** 0.9.22
 - **License:** MIT
 
 ## Uninstall
